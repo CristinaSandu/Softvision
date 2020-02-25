@@ -19,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -27,6 +30,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Xyajs749H1mQ5FLuva9ytgSplg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -185,10 +189,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="960" height="540" key="XDebugger.FullValuePopup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1582105597217" />
-    <state x="616" y="374" key="com.intellij.ide.util.TipDialog" timestamp="1582102606651">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="616" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1582621411587">
+      <screen x="0" y="23" width="1920" height="968" />
     </state>
     <state x="616" y="374" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1582102606651" />
+    <state x="616" y="358" key="com.intellij.ide.util.TipDialog/0.23.1920.968/1920.23.1920.1057@0.23.1920.968" timestamp="1582621411587" />
     <state x="528" y="284" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582194120201">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

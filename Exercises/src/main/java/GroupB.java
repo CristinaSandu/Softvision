@@ -4,6 +4,7 @@ public class GroupB {
 
 //    Sa se implementeze un calculator ce citeste de la tastatura operatiile si returneaza rezultatul acestora.
 //    Operatii suportate: adunare, scadere, inmultire, impartire, ridicare la putere(^)
+	//Change in file for Git
 
     public static void main(String[] args) {
         Calculator("99.4@2.1");
@@ -53,3 +54,5 @@ public class GroupB {
     }
 
 }
+
+//Change for Git 2
