@@ -5,6 +5,7 @@ public class GroupA_a {
 //* fiecare exercitiu din acest grup va fi facut in clase separate cu cate un main method.
 //a. Sa se implementeze o metoda care primeste ca parametru o lista de stringuri si sa se
 // afiseze pentru fiecare lungimea si numarul de spatii.
+//Test Git remote
 
     public static void main(String[] args) {
 
@@ -28,3 +29,5 @@ public class GroupA_a {
         System.out.println("Number of spaces: -->  " + s);
     }
 }
+
+//Test git remote
